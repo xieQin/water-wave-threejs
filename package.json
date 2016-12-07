@@ -1,0 +1,25 @@
+{
+  "name": "water-wave-threejs",
+  "version": "1.0.0",
+  "description": "water wave using three.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp",
+    "build": "gulp build"
+  },
+  "author": "xieq",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "gulp": "^3.8.10",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-copy": "0.0.2",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-insert": "^0.5.0",
+    "gulp-replace": "^0.5.4",
+    "gulp-requirejs": "^0.1.3",
+    "gulp-sass": "^2.3.0",
+    "gulp-clean": "^0.3.2",
+    "gulp-uglify": "^2.0.0"
+  }
+}
